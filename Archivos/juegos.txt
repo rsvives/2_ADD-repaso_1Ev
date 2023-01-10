@@ -1,0 +1,5 @@
+Juego{titulo='Pokemon Rojo', año=1980, genero='Aventura', edad=3, estudio='Game Freak'}
+Juego{titulo='Minecraft', año=2010, genero='Aventura', edad=3, estudio='Mojang'}
+Juego{titulo='GTA V', año=2010, genero='RPG', edad=18, estudio='Rockstar'}
+Juego{titulo='Valorant', año=2020, genero='Shooter', edad=18, estudio='Riot'}
+Juego{titulo='Rust', año=2010, genero='RPG', edad=18, estudio='Valve'}
